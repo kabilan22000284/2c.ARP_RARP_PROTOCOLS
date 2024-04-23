@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+## NAME: KABILAN V
+## REGISTER NO: 212222100018
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
